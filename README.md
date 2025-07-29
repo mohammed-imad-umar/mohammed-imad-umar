@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Mohammed Imad Umar 👋
+🎓 CSE (AI & ML) Student  
+💻 Passionate about coding, data-driven solutions & AI/ML research.
 
-<!--
-**mohammed-imad-umar/mohammed-imad-umar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Current & Completed Projects:
+🚀 **Detecting Twitter Bots using Machine Learning**  
+Building an intelligent model to identify automated accounts on Twitter.
 
-Here are some ideas to get you started:
+📱 **Smart Parking System (Full-Stack + Android)**  
+Developed a full-stack + Android app-based smart parking solution with real-time slot booking and management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tech Stack:
+- **Languages:** Java, Python, SQL  
+- **CS Fundamentals:** Data Analytics (DA), Computer Networks (CN), Operating Systems (OS)  
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Android Studio  
+
+## 🌱 Currently Learning:
+- Java DSA (Recursion, Algorithms, Problem-Solving)  
+- Python Basics  
+- SQL Basics  
+
+## 📊 GitHub Stats:
+![Imad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-imad-umar&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-imad-umar&layout=compact&theme=tokyonight)
+
+## 🐍 Contribution Snake:
+![snake gif](https://github.com/mohammed-imad-umar/mohammed-imad-umar/blob/output/github-contribution-grid-snake.svg)
+
+## 📫 Contact Me:
+📧 **Email:** imadu1525@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/) | [LeetCode](https://leetcode.com/)  
+
+⭐ *"Learning every day. Building every day."*
