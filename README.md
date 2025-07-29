@@ -40,7 +40,8 @@ Developed a full-stack + Android app-based smart parking solution with real-time
 ---
 
 ### 🐍 Contribution Snake:
-![Snake animation](https://raw.githubusercontent.com/mohammed-imad-umar/mohamamed-imad-umar/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/mohammed-imad-umar/mohammed-imad-umar/output/github-contribution-grid-snake.svg)
+
 
 ---
 
