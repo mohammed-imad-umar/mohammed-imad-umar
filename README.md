@@ -35,9 +35,12 @@ Developed a full-stack + Android app-based smart parking solution with real-time
 ### 📊 GitHub Stats:
 ![Imad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-imad-umar&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-imad-umar&layout=compact&theme=tokyonight)
+
 ### 📈 Most Used Languages:
-- **Java:** ██████████████████████ 99%
-- **Python:** ████████████████████ 88%
+![Java](https://img.shields.io/badge/Java-99%25-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-88%25-blue?style=for-the-badge&logo=python)
+
 
 
 
