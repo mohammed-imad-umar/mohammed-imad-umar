@@ -5,6 +5,11 @@
 
 ---
 
+### 🌐 My Portfolio:
+[![Portfolio](https://img.shields.io/badge/🌎%20Visit%20My%20Portfolio-Click%20Here-blueviolet?style=for-the-badge)](https://mohammed-imad-umar-portfolio.netlify.app/)
+
+---
+
 ### 🔭 Current & Completed Projects:
 🚀 **Detecting Twitter Bots using Machine Learning**  
 Building an intelligent model to identify automated accounts on Twitter.
@@ -35,20 +40,14 @@ Developed a full-stack + Android app-based smart parking solution with real-time
 ### 📊 GitHub Stats:
 ![Imad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-imad-umar&show_icons=true&theme=tokyonight)
 
-
 ### 📈 Most Used Languages:
 ![Java](https://img.shields.io/badge/Java-99%25-orange?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-88%25-blue?style=for-the-badge&logo=python)
-
-
-
-
 
 ---
 
 ### 🐍 Contribution Snake:
 ![snake gif](https://raw.githubusercontent.com/mohammed-imad-umar/mohammed-imad-umar/output/github-contribution-grid-snake.svg)
-
 
 ---
 
@@ -56,6 +55,6 @@ Developed a full-stack + Android app-based smart parking solution with real-time
 📧 **Email:** [imadu1525@gmail.com](mailto:imadu1525@gmail.com)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammed-imad-umar/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/mohammed_imad_umar/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/mohammed_imad_umar/)  
 
 ⭐ *"Learning every day. Building every day."*
