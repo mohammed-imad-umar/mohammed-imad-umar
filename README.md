@@ -6,7 +6,7 @@
 ---
 
 ### 🌐 My Portfolio:
-[![Portfolio](https://img.shields.io/badge/🌎%20Visit%20My%20Portfolio-Click%20Here-blueviolet?style=for-the-badge)](https://688ba211911834236e03443b--mohammed-imad-umar-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌎%20Visit%20My%20Portfolio-Click%20Here-blueviolet?style=for-the-badge)](https://mohammed-imad-umar-portfolio.netlify.app/)
 
 ---
 
